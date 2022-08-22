@@ -16,7 +16,7 @@
   Hi, I'm Recep KARDEŞ, Full Stack Java Developer.
   <br>
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learn anythings about it <br>
   <br>
   💬 Ask me anything about from <a href="https://github.com/kardesrecep/kardesrecep/issues" title="Issues">Here</a>
   <br>
