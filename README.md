@@ -31,7 +31,7 @@
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Postgresql" height="25" src="images/Postgresql.svg"></code>
+  <code><img title="PostGreSQL" height="25" src="images/Postgresql.svg"></code>
 </p>
 <hr>
 
