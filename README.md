@@ -32,6 +32,8 @@
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="PostGreSQL" height="25" src="images/Postgresql.svg"></code>
+   <code><img title="Hibernate" height="25" src="images/hibernate.png"></code>
+  <code><img title="Lambda" height="25" src="images/lambda.png"></code>
 </p>
 <hr>
 
