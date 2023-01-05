@@ -26,7 +26,7 @@
   <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<p  align="center">
+<p display="flex" align="center">
  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
