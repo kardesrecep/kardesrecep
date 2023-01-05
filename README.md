@@ -27,13 +27,8 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
- <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="PostGreSQL" height="25" src="images/Postgresql.svg"></code>
-   <code><img title="Hibernate" height="25" src="images/hibernate.png"></code>
-  <code><img title="Lambda" height="25" src="images/lambda.png"></code>
+![alt text ](https://img.shields.io/badge/Tesla-text-CC0000?style=for-the-badge&logo=Tesla)
+ 
 </p>
 <hr>
 
