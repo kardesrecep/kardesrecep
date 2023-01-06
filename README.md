@@ -1,5 +1,5 @@
 
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kardesrecep">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Recep+KARDES...;Nice+to+meet+you!&center=true&size=29">
@@ -36,3 +36,4 @@
 <p>Learning .. </p>
 👉 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> 
 <br>
+  
